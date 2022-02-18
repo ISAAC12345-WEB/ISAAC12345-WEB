@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![ISAAC12345-WEB github stats](https://github-readme-stats.vercel.app/api?username=ISAAC12345-WEB&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISAAC12345-WEB&title_color=fff&bg_color=018eff&hide=html,css)](https://github.com/ISAAC12345-WEB/github-readme-stats)

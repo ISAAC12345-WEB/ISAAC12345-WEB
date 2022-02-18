@@ -5,10 +5,9 @@
 - [How to run](#How-to-run)
 - [DB](#DB-)
 - [Backend](#Backend-)
-- [Backend](#Backend-)
   - [User endpoints](#User)
   - [Product endoints](#Movie)
--[Frontend](#Frontend-)
+-[Frontend](#Frontend)
 
 
 Here are some ideas to get you started:

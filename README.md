@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![About Me](https://raw.githubusercontent.com/ISAAC12345-WEB/ISAAC12345-WEB/master/bio.gif)
-<
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

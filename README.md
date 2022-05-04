@@ -9,8 +9,7 @@
   - [Product endoints](#Movie)
 
 - [Frontend](#Frontend)
-
-- [![Registrese](https://getstream.io/chat/trial/]
+- [Registrese](https://getstream.io/chat/trial/)
 
 
 Here are some ideas to get you started:

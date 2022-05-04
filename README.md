@@ -2,7 +2,7 @@
 
 
 #### Table of Contents
-- [How to run](#How-to-run)
+- [How to run](#https://getstream.io/chat/trial/)
 - [DB](#DB-)
 - [Backend](#Backend-)
   - [User endpoints](#User)

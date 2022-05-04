@@ -1,14 +1,16 @@
-### Hello there👋
+### Hola Gente👋
 
 
 #### Table of Contents
-- [How to run](#https://getstream.io/chat/trial/)
+- [How to run](#How-to-run)
 - [DB](#DB-)
 - [Backend](#Backend-)
   - [User endpoints](#User)
   - [Product endoints](#Movie)
 
 - [Frontend](#Frontend)
+
+- [![Registrese](https://getstream.io/chat/trial/]
 
 
 Here are some ideas to get you started:
